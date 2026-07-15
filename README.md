@@ -184,9 +184,9 @@ python main.py
 
 The optimizer is based on the Gradient Descent update rule
 
-\[
+```math
 \theta_{t+1} = \theta_t - \alpha \nabla f(\theta_t)
-\]
+```
 
 where
 
@@ -196,11 +196,11 @@ where
 
 Analytical gradients are verified numerically using finite differences:
 
-\[
+```math
 \frac{\partial f}{\partial x}
 \approx
 \frac{f(x+h)-f(x-h)}{2h}
-\]
+```
 
 This numerical approximation serves as an independent validation of the implemented derivatives.
 
