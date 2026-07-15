@@ -14,7 +14,7 @@ Optimization lies at the core of quantitative finance and artificial intelligenc
 
 This project implements a fully vectorized **N-dimensional Gradient Descent Optimizer** capable of operating on both scalar and multi-variable objective functions using the exact same optimization engine.
 
-To guarantee mathematical correctness, the repository also includes an automated **Finite Difference Gradient Auditor** that numerically validates every analytical derivative before optimization begins.
+To guarantee mathematical correctness, this repository also includes an automated **Finite Difference Gradient Auditor** that numerically validates every analytical derivative before optimization begins.
 
 The project was built entirely from first principles using only **NumPy** and **Matplotlib**, intentionally avoiding machine learning libraries to expose every mathematical component.
 
