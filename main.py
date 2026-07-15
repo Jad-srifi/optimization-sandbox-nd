@@ -7,7 +7,7 @@ import numpy as np
 # 3. 3D Optimization Bowl (2-Variable Descent)
 
 # 1.
-plot_divergence_2d(x_range=(-30, 30, 400), x_start=27, alpha=0.1, max_steps=1e4, margins=0.05)
+plot_divergence_2d(x_range=(-37, 30, 400), x_start=27, alpha=0.1, max_steps=1e4, margins=0.05)
 
 # 2.
 plot_hyperparameter_trough_3d(x_range=(-30, 30, 400), alpha_range=(0.1, 1.2, 100), number_alphas=6, x_start=27, max_steps=1e4)
