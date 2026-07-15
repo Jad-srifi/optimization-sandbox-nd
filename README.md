@@ -118,7 +118,7 @@ Illustrates how Gradient Descent behaves under different learning rates.
 
 Safe learning rates converge smoothly toward the minimum, while excessive learning rates produce oscillation and divergence.
 
-![1D Divergence Map](https://github.com/user-attachments/assets/1c8f6a89-9c46-4419-b191-8a09d6c0aefd)
+![1D Divergence Map](https://github.com/user-attachments/assets/e8eb56ea-7b25-4c53-b992-1ef79176ecea)
 
 ---
 
@@ -128,7 +128,7 @@ Extrudes the optimization surface to illustrate how different learning-rate valu
 
 The resulting visualization demonstrates how hyperparameter selection changes optimization behavior across the objective manifold.
 
-![3D Hyperparameter Trough](https://github.com/user-attachments/assets/e8eb56ea-7b25-4c53-b992-1ef79176ecea)
+![3D Hyperparameter Trough](https://github.com/user-attachments/assets/1c8f6a89-9c46-4419-b191-8a09d6c0aefd)
 
 ---
 
